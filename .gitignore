@@ -2,3 +2,4 @@ not_main.py
 notes.txt
 dependency.txt
 .env
+.venv
